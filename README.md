@@ -9,12 +9,11 @@
 <a href="https://github.com/Nitish145">
   <img align="left" alt="Nitish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/nitish.aggarwal.581">
-  <img align="left" alt="Nitish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://leetcode.com/royalnitish21/">
   <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nitish145.Nitish145)
 
 <br />
 
