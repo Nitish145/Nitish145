@@ -10,7 +10,7 @@
   <img align="left" alt="Nitish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://leetcode.com/royalnitish21/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Nitish's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nitish145.Nitish145)
@@ -27,7 +27,7 @@ I'm a third year student pursuing Bachelors's in Electrical Engineering 🎓 fro
 - 🌱 I’m currently learning backend dev & DSA 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving flutter :heart:
 - 📫 How to reach me: naggarwal@me.iitr.ac.in | [LinkedIn](https://www.linkedin.com/in/nitish-aggarwal-105739175/) | [Twitter](https://twitter.com/NitishA27612143).
-- :pencil2: Find my blogs [here](https://nitish145.github.io/personal_blog).
+- :pencil2: Find my blogs [here](https://nitish145.github.io/blog).
 - 💻 I have worked on Flutter, Ruby on rails, C++, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, PostgreSQL, MongoDB, Git etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - 😄 Pronouns: He/Him/His.
