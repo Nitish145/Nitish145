@@ -1,16 +1,19 @@
 ### Hi there 👋
 
+<a href="https://github.com/Nitish145">
+  <img align="left" alt="Nitish's Github" width="36px" src="https://img.icons8.com/material/50/6a9fb5/source-code.png" />
+</a>
+<a href="https://nitish145.github.io/blog/">
+  <img align="left" alt="Nitish's Blogs" width="36px" src="https://img.icons8.com/material/50/6a9fb5/geography.png" />
+</a>
 <a href="https://twitter.com/NitishA27612143">
-  <img align="left" alt="Nitish's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Nitish's Twitter" width="36px" src="https://img.icons8.com/material/50/6a9fb5/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/nitish-aggarwal-105739175/">
-  <img align="left" alt="Nitish's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nitish's Linkdein" width="36px" src="https://img.icons8.com/material/50/6a9fb5/linkedin.png" />
 </a>
-<a href="https://github.com/Nitish145">
-  <img align="left" alt="Nitish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://leetcode.com/royalnitish21/">
-  <img align="left" alt="Nitish's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="mailto:nitishaggarwal145@gmail.com">
+  <img align="left" alt="Nitish's Mail" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nitish145.Nitish145)
