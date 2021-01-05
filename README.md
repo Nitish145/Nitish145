@@ -15,9 +15,6 @@
 <a href="mailto:nitishaggarwal145@gmail.com">
   <img align="left" alt="Nitish's Mail" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
 </a>
-<a href="https://visitor-badge.laobi.icu/badge?page_id=Nitish145.Nitish145">
-  <img align="center" alt="Nitish's Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nitish145.Nitish145" />
-</a>
 
 <br />
 
