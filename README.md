@@ -34,4 +34,4 @@ I'm a third year student pursuing Bachelors's in Electrical Engineering 🎓 fro
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I don't fight over tabs v/s spaces.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Nitish145&show_icons=true&hide_border=true)
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitish145&count_private=true&show_icons=true&title_color=fff&icon_color=6a9fb5&text_color=9f9f9f&bg_color=151515)
