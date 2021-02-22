@@ -27,7 +27,7 @@ I'm a third year student pursuing Bachelors's in Electrical Engineering 🎓 fro
 - 🔭 I’m currently working on Ruby on Rails & developing flutter apps.
 - 🌱 I’m currently learning backend dev & DSA 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving flutter :heart:
-- 📫 How to reach me: naggarwal@me.iitr.ac.in | [LinkedIn](https://www.linkedin.com/in/nitish-aggarwal-105739175/) | [Twitter](https://twitter.com/NitishA27612143).
+- 📫 How to reach me: naggarwal@me.iitr.ac.in | [LinkedIn](https://www.linkedin.com/in/nitishaggarwal145/) | [Twitter](https://twitter.com/NitishA145).
 - :pencil2: Find my blogs [here](https://nitish145.github.io/blog).
 - 💻 I have worked on Flutter, Ruby on rails, C++, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, PostgreSQL, MongoDB, Git etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
