@@ -6,7 +6,7 @@
 <a href="https://nitish145.github.io/blog/">
   <img align="left" alt="Nitish's Blogs" width="36px" src="https://img.icons8.com/material/50/6a9fb5/geography.png" />
 </a>
-<a href="https://twitter.com/NitishA27612143">
+<a href="https://twitter.com/NitishA145">
   <img align="left" alt="Nitish's Twitter" width="36px" src="https://img.icons8.com/material/50/6a9fb5/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/nitish-aggarwal-105739175/">
