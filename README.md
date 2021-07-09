@@ -20,7 +20,7 @@
 
 ### Glad to see you here! 🤩
 
-I'm a third year student pursuing Bachelors's in Electrical Engineering 🎓 from IIT Roorkee 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Flutter App Development :dart: and working on my DSA Skills 🤓.
+I'm a final year student pursuing Bachelors's in Electrical Engineering with minors in Computer Science & Engineering 🎓 from IIT Roorkee 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Flutter App Development :dart: and working on my DSA Skills 🤓.
 
 ### More about me...
 
